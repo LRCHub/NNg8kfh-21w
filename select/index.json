@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Denied",
+  "base_artist": "Sonic Syndicate",
+  "createdAt": "2026-03-05T14:10:37.216802Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Be Denied",
+      "artist": "Neil Young",
+      "has_synced": true,
+      "path": "select/01_Don't_Be_Denied_Neil_Young.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Refuse to Be Denied",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/02_Refuse_to_Be_Denied_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Denied in UK",
+      "artist": "Lil Durk",
+      "has_synced": false,
+      "path": "select/03_Denied_in_UK_Lil_Durk.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "And My Hands Denied Me My Right",
+      "artist": "Arrange",
+      "has_synced": true,
+      "path": "select/04_And_My_Hands_Denied_Me_My_Right_Arrange.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Access Denied",
+      "artist": "Porcupine Tree",
+      "has_synced": true,
+      "path": "select/05_Access_Denied_Porcupine_Tree.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Guide Down Denied",
+      "artist": "Grandaddy",
+      "has_synced": false,
+      "path": "select/06_Guide_Down_Denied_Grandaddy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Request Denied",
+      "artist": "Hypocrisy",
+      "has_synced": true,
+      "path": "select/07_Request_Denied_Hypocrisy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Salvation Denied",
+      "artist": "Kingdom of Sorrow",
+      "has_synced": false,
+      "path": "select/08_Salvation_Denied_Kingdom_of_Sorrow.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Denied",
+      "artist": "Biohazard",
+      "has_synced": true,
+      "path": "select/09_Love_Denied_Biohazard.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heaven Denied",
+      "artist": "Labyrinth",
+      "has_synced": true,
+      "path": "select/10_Heaven_Denied_Labyrinth.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Access Denied",
+      "artist": "Mortal Sin",
+      "has_synced": false,
+      "path": "select/11_Access_Denied_Mortal_Sin.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Denied",
+      "artist": "Annihilator",
+      "has_synced": false,
+      "path": "select/12_Denied_Annihilator.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Refuse To Be Denied",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/13_Refuse_To_Be_Denied_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Refuse To Be Denied (feat. Anthony Martini)",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/14_Refuse_To_Be_Denied_(feat._Anthony_Martini)_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pardon Denied Again",
+      "artist": "Robert Pete Williams",
+      "has_synced": false,
+      "path": "select/15_Pardon_Denied_Again_Robert_Pete_Williams.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Why Have Angels Denied You",
+      "artist": "Alannah Myles",
+      "has_synced": true,
+      "path": "select/16_Why_Have_Angels_Denied_You_Alannah_Myles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Denied",
+      "artist": "Sonic Syndicate",
+      "has_synced": false,
+      "path": "select/pl_01_Denied_Sonic_Syndicate.txt"
+    }
+  ]
+}
